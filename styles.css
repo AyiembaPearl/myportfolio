@@ -56,6 +56,14 @@ header {
     font-weight: bold;
 }
 
+.education-image {
+    max-width: 100%;
+    height: auto;
+    width: 700px; 
+    image-rendering: auto;
+    image-rendering: high-quality;
+}
+
 /* Sidebar Styling */
 .main-content {
     display: flex;
