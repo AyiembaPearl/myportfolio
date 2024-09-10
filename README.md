@@ -19,7 +19,8 @@ my-portfolio/
 -index.html # Main HTML file for the portfolio 
 -css/ style.css # CSS styling for the portfolio 
 -images/ # image files used in the portfolio including logo
--video to enhance the aesthestics of my design
+-pdf/ #attached downloadbale cv file
+-register and telemedicine htmls/ #recent attached project files on web development
 ## 📂 Sections Overview
 ### 1. About Me
 This section provides a brief introduction about myself, including my passion for technology and what motivates me.
